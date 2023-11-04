@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/vredens
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vredens.com
+  * I am vredens (https://keybase.io/vredens) on keybase.
+  * I have a public key ASDk4MeR5gWX_LKCNqMWvTuD0ZA9e1SvK7aW2F3Ovn3qIAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e4e0c791e60597fcb28236a316bd3b83d1903d7b54af2bb696d85dcebe7dea200a",
+      "host": "keybase.io",
+      "kid": "0120e4e0c791e60597fcb28236a316bd3b83d1903d7b54af2bb696d85dcebe7dea200a",
+      "uid": "402cb57862275cce7cf690cc01f34b19",
+      "username": "vredens"
+    },
+    "merkle_root": {
+      "ctime": 1530841645,
+      "hash": "816b3b916c8c395cae5c090bdb154fe23396485882a592dc1d8a433bd4c907ffe9fcf2e8cdefef6a4b56d6c08261c44c37f7e7fe650f374fb739c968dfa8808d",
+      "hash_meta": "6ab8b01acb88e9eb4bb69046e9a89f424809dced5251d78f99d4fc6165fa5af8",
+      "seqno": 3207118
+    },
+    "service": {
+      "entropy": "9teJoujAmjsIW6oGNMASFYf/",
+      "hostname": "vredens.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1530841661,
+  "expire_in": 504576000,
+  "prev": "2602f5085a90212564c3343790585225f5da480db1f12baaf60de0046a652c53",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5ODHkeYFl/yygjajFr07g9GQPXtUryu2lthdzr596iAKp3BheWxvYWTESpcCGsQgJgL1CFqQISVkwzQ3kFhSJfXaSA2x8Suq9g3gBGplLFPEIOUox128XkBWhEk/yKda5ZXRyS/DZ0Je57UHWxHdOQLLAgHCo3NpZ8RAOZyJ/ce0AE3u+SArXruPx9ardYnEObK3mvvTTJXdYAVLIYNq2Er5Zl4GtWilG45IuZRmU1iGsC57eF0U7uuKA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFnY1/KyVkv/qxi/+O8gmTDmT9eRwkza5pFVN9zYLKFJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vredens
+
+==================================================================
+
